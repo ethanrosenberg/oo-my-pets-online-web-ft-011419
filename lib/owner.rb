@@ -54,6 +54,9 @@ class Owner
      @pets = {}
   end
   
+  def list_pets
+    
+  
   def self.all
     @@all
   end
